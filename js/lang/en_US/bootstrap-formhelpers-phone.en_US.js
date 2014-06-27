@@ -177,7 +177,7 @@ var BFHPhoneFormatList = {
   'MP': '+1 (ddd) ddd-dddd',
   'NO': '+47 ddddddddd',
   'OM': '+968 ddddddddd',
-  'PK': '+92 ddddddddd',
+  'PK': '+92 dddddddddd',
   'PW': '+680 ddddddddd',
   'PA': '+507 ddddddddd',
   'PG': '+675 ddddddddd',
